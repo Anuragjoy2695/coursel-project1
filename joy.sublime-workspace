@@ -1,0 +1,759 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"fo",
+				"for"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"ti",
+				"title\t<title>"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"na",
+				"nameErr"
+			],
+			[
+				"if",
+				"if?\t$… = ( … ) ? … : …"
+			],
+			[
+				"ge",
+				"gender"
+			],
+			[
+				"style",
+				"style\tTag"
+			],
+			[
+				"sty",
+				"style\t<style>"
+			],
+			[
+				"va",
+				"value\tAttr"
+			],
+			[
+				"tr",
+				"tr\tTag"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"ta",
+				"table\tTag"
+			],
+			[
+				"met",
+				"method\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"ech",
+				"echo\techo \"…\""
+			],
+			[
+				"echo",
+				"echo\techo \"…\""
+			],
+			[
+				"find",
+				"findArea"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ra",
+				"rand"
+			],
+			[
+				"ab",
+				"abs"
+			],
+			[
+				"st",
+				"students"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"la",
+				"label\tTag"
+			],
+			[
+				"sm",
+				"small\tTag"
+			],
+			[
+				"im",
+				"img\tTag"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"backg",
+				"background-repeat\tproperty"
+			],
+			[
+				"mi",
+				"min-height\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"ba",
+				"background-attachment\tproperty"
+			],
+			[
+				"ol",
+				"ol\tTag"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"nav",
+				"nav\tTag"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"rows",
+				"rows\tAttr"
+			],
+			[
+				"cols",
+				"cols\tAttr"
+			],
+			[
+				"bg-",
+				"background-color\tproperty"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"back",
+				"background-attachment\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"img",
+				"img\tTag"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"ul",
+				"ul\tTag"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"foo",
+				"footer\tTag"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"scr",
+				"script\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground-color"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"br",
+				"br\tTag"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"sectio",
+				"section\tTag"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"sp",
+				"span\tTag"
+			],
+			[
+				"butt",
+				"button\tTag"
+			],
+			[
+				"hr",
+				"href\tAttr"
+			],
+			[
+				"card",
+				"card-body"
+			],
+			[
+				"sli",
+				"slider1"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"order",
+				"order-3"
+			],
+			[
+				"btn",
+				"btn-block"
+			],
+			[
+				"ca",
+				"card-body"
+			],
+			[
+				"pr",
+				"progress-bar-striped"
+			],
+			[
+				"pro",
+				"progress-bar"
+			],
+			[
+				"inp",
+				"input-group-append"
+			],
+			[
+				"in",
+				"input-group-text"
+			],
+			[
+				"input",
+				"input-group-prepend"
+			],
+			[
+				"spa",
+				"span\tTag"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"from",
+				"form-control"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"s",
+				"select\tTag"
+			],
+			[
+				"lis",
+				"list-group-item"
+			],
+			[
+				"list",
+				"list-group-item"
+			],
+			[
+				"dro",
+				"dropdown"
+			],
+			[
+				"drop",
+				"dropdown"
+			],
+			[
+				"dr",
+				"dropdown-item"
+			],
+			[
+				"d",
+				"dropdown"
+			],
+			[
+				"m",
+				"ml-auto"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"nav-",
+				"nav-link"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"margin-",
+				"margin-right\tproperty"
+			],
+			[
+				"sr",
+				"flex-start\tjustify-content"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"fl",
+				"flex-start\tjustify-content"
+			],
+			[
+				"flex-",
+				"flex-wrap\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"text-",
+				"text-decoration\tproperty"
+			],
+			[
+				"backgr",
+				"background-repeat\tproperty"
+			],
+			[
+				"transi",
+				"transition-delay\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"text",
+				"text-shadow\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"upper",
+				"upper-roman\tlist-style-type"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ou",
+				"outline-offset\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"just",
+				"justify-all\ttext-align"
+			],
+			[
+				"magin",
+				"margin-top\tproperty"
+			],
+			[
+				"COL",
+				"color\tproperty"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"bck",
+				"background-color\tproperty"
+			],
+			[
+				"j",
+				"justify-all\ttext-align"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"marin",
+				"margin-top\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Win_10/Desktop/joy/joy.html",
+		"/E/Program Files/Ampps/www/batch_4/joy.php",
+		"/E/Program Files/Ampps/www/class-2/2.php",
+		"/E/Program Files/Ampps/www/class3/my.php",
+		"/E/Program Files/Ampps/www/class5/5.php",
+		"/E/xampp/htdocs/joy/wp-content/plugins/ut-portfolio/classes/post-types/class-portfolio.php",
+		"/E/xampp/htdocs/project/wp-content/index.php",
+		"/E/xampp/htdocs/project/wp-content/advanced-cache.php",
+		"/E/xampp/htdocs/project/index.php",
+		"/E/xampp/htdocs/project/wp-admin/about.php",
+		"/E/xampp/htdocs/project/wp-admin/admin.php",
+		"/E/xampp/htdocs/project/wp-admin/user-edit.php",
+		"/E/xampp/htdocs/project/wp-admin/user/admin.php",
+		"/E/xampp/htdocs/project/wp-admin/user/about.php",
+		"/E/xampp/htdocs/project/wp-config.php",
+		"/E/xampp/htdocs/joy/wp-content/plugins/index.php",
+		"/E/xampp/htdocs/joy/wp-content/plugins/ut-portfolio/classes/post-types/class-portfolio-manager.php",
+		"/E/xampp/htdocs/project/wp-admin/setup-config.php",
+		"/E/xampp/htdocs/project/wp-config-sample.php",
+		"/C/Users/Win_10/AppData/Local/Temp/wp-config.php",
+		"/E/xampp/htdocs/joy/wp-content/plugins/revslider/includes/page-template.class.php",
+		"/E/xampp/htdocs/joy/wp-content/plugins/revslider/index.php",
+		"/E/xampp/htdocs/joy/wp-content/plugins/revslider/includes/slider.class.php",
+		"/E/xampp/htdocs/joy/wp-content/plugins/revslider/includes/favorite.class.php",
+		"/E/xampp/htdocs/joy/wp-content/plugins/revslider/includes/slide.class.php",
+		"/E/xampp/htdocs/joy/wp-content/plugins/revslider/revslider.php",
+		"/E/xampp/htdocs/joy/wp-content/plugins/revslider/admin/includes/license.class.php",
+		"/E/xampp/htdocs/joy/wp-content/plugins/revslider/includes/functions.class.php",
+		"/E/Program Files/Ampps/www/Homework/wp-admin/includes/class-bulk-upgrader-skin.php",
+		"/C/Users/Win_10/Desktop/Glozzomp.3/2.css",
+		"/E/Program Files/Ampps/www/wordpress/wp-admin/includes/class-bulk-upgrader-skin.php",
+		"/C/Users/Win_10/Desktop/Glozzomp.3/1.html",
+		"/C/Users/Win_10/Desktop/Glozzomp.3/SERVICES.html",
+		"/C/Users/Win_10/Desktop/Glozzomp.3/BLOG.html",
+		"/C/Users/Win_10/Desktop/Glozzomp.3/CONTRACT.html",
+		"/C/Users/Win_10/Desktop/boots-p-2/14.html",
+		"/C/Users/Win_10/Desktop/Glozzomp.3/ABOUT US.html",
+		"/C/Users/Win_10/Desktop/p.html",
+		"/C/Users/Win_10/Desktop/boots-p-2/15.css",
+		"/C/Users/Win_10/Desktop/my first assignment/big.html",
+		"/C/Users/Win_10/Desktop/New folder/joy.html",
+		"/C/Users/Win_10/Desktop/New folder/style.css",
+		"/C/Users/Win_10/Desktop/first project bootstrap/joy.html",
+		"/C/Users/Win_10/Desktop/first project bootstrap/style.css",
+		"/C/Users/Win_10/Desktop/joy/1.html",
+		"/C/Users/Win_10/Desktop/responsive/joy.html",
+		"/C/Users/Win_10/Desktop/responsive/mm.css",
+		"/C/Users/Win_10/Desktop/joy/2.css",
+		"/C/Users/Win_10/Desktop/my first assignment/joy.css",
+		"/C/Users/Win_10/Desktop/joy/responsive.css",
+		"/C/Users/Win_10/Desktop/joy/3.css",
+		"/C/Users/Win_10/Desktop/home/home1.html",
+		"/C/Users/Win_10/Desktop/home/home2.css",
+		"/C/Users/Win_10/Desktop/tody/m2.css",
+		"/C/Users/Win_10/Desktop/tody/m1.html",
+		"/C/Users/Win_10/Desktop/tupi/b.css",
+		"/C/Users/Win_10/Desktop/tupi/r.html",
+		"/C/Users/Win_10/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Win_10/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Win_10/Desktop/11/50.html",
+		"/C/Users/Win_10/Desktop/11/51.css",
+		"/C/Users/Win_10/Desktop/5/joy.html",
+		"/C/Users/Win_10/Desktop/New folder (3)/joy.html",
+		"/C/Users/Win_10/Desktop/New folder (3)/about.html",
+		"/C/Users/Win_10/Desktop/new h.w/index.html",
+		"/C/Users/Win_10/Desktop/batch10/index.html",
+		"/C/Users/Win_10/Desktop/batch10/joy.html",
+		"/C/Users/Win_10/Desktop/New folder (2)/index.html",
+		"/C/Users/Win_10/Desktop/1/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "joy.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Win_10\\Desktop\\New folder\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
